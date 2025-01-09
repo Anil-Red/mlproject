@@ -22,6 +22,6 @@ setup (
      author = 'Anil',
      author_email = 'challamallaanilreddy00553@gmail.com',
      packages = find_packages(),
-     install_requires = get_requirements('requirements.txt')
+     install_requires = get_requirements('requirements.txt')# list of dependencies [numpy, pandas].
 
 )
