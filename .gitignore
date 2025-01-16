@@ -135,7 +135,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
-ete_ml/
+end_ml/
 
 # Spyder project settings
 .spyderproject
